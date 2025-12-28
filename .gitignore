@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Build
+build/
+dist/
+*.deb
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# App
+icon.png

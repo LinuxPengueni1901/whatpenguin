@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=WhatPenguin
+Comment=WhatsApp Web Client for Linux
+Exec=whatpenguin
+Icon=whatpenguin
+Terminal=false
+Type=Application
+Categories=Network;Chat;
+StartupNotify=true
+StartupWMClass=com.taha.whatpenguin
