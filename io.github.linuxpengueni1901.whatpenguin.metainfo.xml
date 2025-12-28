@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.linuxpengueni1901.whatpenguin</id>
+  
+  <name>WhatPenguin</name>
+  <summary>A modern WhatsApp Web client for Linux</summary>
+  
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  
+  <description>
+    <p>
+      WhatPenguin is a lightweight, native-looking WhatsApp Web client built with GTK4 and Libadwaita.
+      It provides a seamless integration with the GNOME desktop environment.
+    </p>
+    <ul>
+      <li>Native UI with Libadwaita styling</li>
+      <li>System tray integration</li>
+      <li>Privacy-focused (sandboxed WebKit)</li>
+    </ul>
+  </description>
+  
+  <launchable type="desktop-id">io.github.linuxpengueni1901.whatpenguin.desktop</launchable>
+  
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/LinuxPengueni1901/whatpenguin/main/whatpenguin.png</image>
+    </screenshot>
+  </screenshots>
+  
+  <url type="homepage">https://github.com/LinuxPengueni1901/whatpenguin</url>
+  <url type="bugtracker">https://github.com/LinuxPengueni1901/whatpenguin/issues</url>
+  <developer_name>LinuxPengueni1901</developer_name>
+  
+  <content_rating type="oars-1.1"/>
+  
+  <releases>
+    <release version="1.0.0" date="2025-12-28"/>
+  </releases>
+</component>
